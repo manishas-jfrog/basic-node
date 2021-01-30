@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: manishas_github
-      path: devops-recipes/basic-node
+      path: manishas-jfrog/basic-node
       
 pipelines:
   - name: basic_node_pipeline
